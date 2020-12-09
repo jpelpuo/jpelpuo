@@ -1,4 +1,4 @@
-### Hi there 👋
+### `Hello World!  👋`
 
 My name is Jamal Pelpuo. I'm a software engineer currently living in Ghana. I have a Bachelor's degree in Computer Science from the University of Ghana. I love programming and enjoy every second of it (except when it gets unbearably frustrating 😤️). I want to do amazing things through software.
 
