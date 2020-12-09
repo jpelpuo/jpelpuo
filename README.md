@@ -6,6 +6,6 @@ My name is Jamal Pelpuo. I'm a software engineer currently living in Ghana. I ha
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anime 😁️, anything about JavaScript.
-- 📫 How to reach me: Twitter [@jpeluo](https://twitter.com/Jpelpuo) on Twitter.
+- 📫 How to reach me: [@jpeluo](https://twitter.com/Jpelpuo) on Twitter.
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I'm quite a huge nerd 🤓️
